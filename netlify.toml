@@ -1,0 +1,3 @@
+[build]
+  functions = "functions/"  # Define la carpeta donde estarán tus funciones
+
